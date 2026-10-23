@@ -3,9 +3,10 @@
 Enhanced MWM data is distributed as GitHub Release assets.
 
 - [mwm-10-18-2026](https://github.com/virbula/mwm/releases/tag/mwm-10-18-2026): raw mobile MWM files, SHA256SUMS and data manifest.
-- [mwm-api-10-18-2026](https://github.com/virbula/mwm/releases/tag/mwm-api-10-18-2026): server-side API/editing companions, excluded from the mobile catalog.
 - [catalog-10-18-2026](https://github.com/virbula/mwm/releases/tag/catalog-10-18-2026): signed catalog, generation manifest and mobile test setup.
 - [latest-stable](https://github.com/virbula/mwm/releases/tag/latest-stable) and [latest-beta](https://github.com/virbula/mwm/releases/tag/latest-beta): catalog-pointer.json channel references.
+
+API/editing companion publication is deferred until OpenStreetMap editing is supported.
 
 Source date: 2026-10-18. Current coverage: Rhode Island and Connecticut. Each file has an exact byte size and SHA256; raw MWM files have no outer gzip. Asset names use underscores; the catalog records the native installed filename.
 
