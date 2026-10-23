@@ -2,7 +2,8 @@
 
 Enhanced MWM data is distributed as GitHub Release assets.
 
-- [mwm-10-18-2026](https://github.com/virbula/mwm/releases/tag/mwm-10-18-2026): raw mobile MWM files, canonical API companions, SHA256SUMS and data manifest.
+- [mwm-10-18-2026](https://github.com/virbula/mwm/releases/tag/mwm-10-18-2026): raw mobile MWM files, SHA256SUMS and data manifest.
+- [mwm-api-10-18-2026](https://github.com/virbula/mwm/releases/tag/mwm-api-10-18-2026): server-side API/editing companions, excluded from the mobile catalog.
 - [catalog-10-18-2026](https://github.com/virbula/mwm/releases/tag/catalog-10-18-2026): signed catalog, generation manifest and mobile test setup.
 - [latest-stable](https://github.com/virbula/mwm/releases/tag/latest-stable) and [latest-beta](https://github.com/virbula/mwm/releases/tag/latest-beta): catalog-pointer.json channel references.
 
